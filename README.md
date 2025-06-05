@@ -8,4 +8,4 @@ Here is an example of a task list:
 - [ ] Test1
 - [ ] Test2
 
-Although, it isn't really useful.
+Although, it isn't really useful. The task list itself isn't interactive, but just a representation of a list. A bit disingenuous, really.
