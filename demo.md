@@ -8,8 +8,4 @@ This update will test committing and pushing using VSCode instead of the CLI.
 
 ### Another test
 
-<<<<<<< HEAD
-Here, I'm modifying the file from GitHub. Apparently, this method is not recommended. I feel like more should be added here.
-=======
-Here, I'm modifying the file from GitHub. Apparently, this method is not recommended. Not sure why it isn't recommended, since it seems quite user-friendly.
->>>>>>> 1303e5993b138473707db56350500ee754c8cbda
+Here, I'm modifying the file from GitHub. Apparently, this method is not recommended. Not sure why it isn't recommended, since it seems quite user-friendly. I feel like more should be added here.
